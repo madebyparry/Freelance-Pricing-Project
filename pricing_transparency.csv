@@ -1,0 +1,27 @@
+INVENTORY No.,PRICE,DESCRIP,UNIT
+0001,100,Website hosting,/yr
+0002,100,Site Setup,/site
+0003,100,File Structuring >500,/dump
+0004,100,File Sanitation,/dump
+0005,100,Domain Services,/domain
+0006,100,Email Setup,/network
+0007,100,CDN Setup,/network
+0011,50,Static Pages,/page
+0012,100,Dynamic Pages,/page
+0013,100,Custom Feed,/feed
+0014,100,Custom Frontend Components,/component
+0015,150,Custom Backend Components,/component
+0051,300,Site Migration >50 Pages,/site
+0052,600,Site Migration >100<50 Pages,/site
+0101,450,Storefront – Woocommerce,/site
+0500,50,Asset fixes,/asset
+0501,100,Custom Illustration,/hr
+0502,100,Custom Design Elements,/hr
+0503,200,Logo Rework,/item
+0504,300,Brand Organization,/book
+0505,50,Copywriting,/item
+1000,100,General Contracting,/30min
+1001,100,Web Consultation,/30min
+1002,100,Branding Consultation,/30min
+1003,100,Hosting Consultation,/30min
+1004,100,Sales Consultation,/30min
