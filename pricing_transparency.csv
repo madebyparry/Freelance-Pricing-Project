@@ -15,6 +15,7 @@ INVENTORY No.,PRICE,DESCRIP,UNIT
 0052,600,Site Migration >100<50 Pages,/site
 0101,450,Storefront – Woocommerce,/site
 0500,50,Asset fixes,/asset
+0501,150,Video fixes,/asset
 0501,100,Custom Illustration,/hr
 0502,100,Custom Design Elements,/hr
 0503,200,Logo Rework,/item
