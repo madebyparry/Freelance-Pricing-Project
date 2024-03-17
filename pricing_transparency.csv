@@ -1,20 +1,24 @@
 No.,PRICE,DESCRIP,UNIT
 0001,100,Website hosting,/yr
-0002,100,Site Setup,/site
-0003,100,File Structuring >500,/dump
-0004,100,File Sanitation,/dump
+0002,100,"Basic Stack Setup ",/site
+0003,100,CMS Setup,/site
+0004,150,Event Booking System,/site
+0011,100,File Structuring >500,/dump
+0012,100,File Sanitation,/dump
 0005,100,Domain Services,/domain
 0006,100,Email Setup,/network
 0007,100,CDN Setup,/network
-0011,50,Static Pages,/page
-0012,100,Dynamic Pages,/page
-0013,100,Custom Feed,/feed
-0014,100,Custom Frontend Components,/component
-0015,150,Custom Backend Components,/component
+0008,150,Web Portal / Client Area,/site
+0009,200,Availability System,/site
+0021,50,Static Pages,/page
+0022,100,Dynamic Pages,/page
+0023,100,Custom Feed,/feed
+0024,100,Custom Frontend Components,/component
+0025,150,Custom Backend Components,/component
 0051,300,Site Migration >50 Pages,/site
 0052,600,Site Migration >100<50 Pages,/site
 0101,450,Storefront – Woocommerce,/site
-0500,50,Asset fixes,/asset
+0500,50,General Asset fixes,/asset
 0501,100,Custom Illustration,/hr
 0502,100,Custom Design Elements,/hr
 0503,200,Logo Rework,/item
