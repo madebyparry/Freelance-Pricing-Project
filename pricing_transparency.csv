@@ -1,29 +1,31 @@
 No.,PRICE,DESCRIP,UNIT
-0001,100,Website hosting,/yr
-0002,100,"Basic Stack Setup ",/site
-0003,100,CMS Setup,/site
-0004,150,Event Booking System,/site
-0011,100,File Structuring >500,/dump
-0012,100,File Sanitation,/dump
-0005,100,Domain Services,/domain
-0006,100,Email Setup,/network
-0007,100,CDN Setup,/network
-0008,150,Web Portal / Client Area,/site
-0009,200,Availability System,/site
-0021,50,Static Pages,/page
-0022,100,Dynamic Pages,/page
-0023,100,Custom Feed,/feed
-0024,100,Custom Frontend Components,/component
-0025,150,Custom Backend Components,/component
-0051,300,Site Migration >50 Pages,/site
-0052,600,Site Migration >100<50 Pages,/site
-0101,450,Storefront – Woocommerce,/site
-0500,50,General Asset fixes,/asset
-0501,100,Custom Illustration,/hr
-0502,100,Custom Design Elements,/hr
-0503,200,Logo Rework,/item
-0504,300,Brand Organization,/book
-0505,50,Copywriting,/item
+1,100,Website hosting,/yr
+2,100,Basic Stack Setup ,/site
+3,100,CMS Setup,/site
+4,150,Event Booking System,/site
+11,100,File Structuring >500,/dump
+12,100,File Sanitation,/dump
+13,50,Data Structuring,/hr
+14,50,Content Organization,/hr
+5,100,Domain Services,/domain
+6,100,Email Setup,/network
+7,100,CDN Setup,/network
+8,150,Web Portal / Client Area,/site
+9,200,Availability System,/site
+21,50,Static Pages,/page
+22,100,Dynamic Pages,/page
+23,100,Custom Feed,/feed
+24,100,Custom Frontend Components,/component
+25,150,Custom Backend Components,/component
+51,300,Site Migration >50 Pages,/site
+52,600,Site Migration >100<50 Pages,/site
+101,450,Storefront – Woocommerce,/site
+500,50,General Asset fixes,/asset
+501,100,Custom Illustration,/hr
+502,100,Custom Design Elements,/hr
+503,200,Logo Rework,/item
+504,300,Brand Organization,/book
+505,50,Copywriting,/item
 1000,100,General Contracting,/30min
 1001,100,Web Consultation,/30min
 1002,100,Branding Consultation,/30min
