@@ -3,15 +3,15 @@ No.,PRICE,DESCRIP,UNIT
 2,100,Basic Stack Setup ,/site
 3,100,CMS Setup,/site
 4,150,Event Booking System,/site
-11,100,File Structuring >500,/dump
-12,100,File Sanitation,/dump
-13,50,Data Structuring,/hr
-14,50,Content Organization,/hr
 5,100,Domain Services,/domain
 6,100,Email Setup,/network
 7,100,CDN Setup,/network
 8,150,Web Portal / Client Area,/site
 9,200,Availability System,/site
+11,100,File Structuring >500,/dump
+12,100,File Sanitation,/dump
+13,50,Data Structuring,/hr
+14,50,Content Organization,/hr
 21,50,Static Pages,/page
 22,100,Dynamic Pages,/page
 23,100,Custom Feed,/feed
