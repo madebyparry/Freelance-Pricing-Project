@@ -6,7 +6,7 @@ No.;PRICE;DESCRIP;UNIT;NOTES
 5;100;Domain Services;/domain;Setup domain records (CNAME, TXT, AAA, etc.), SSL Certificates, and subdomains
 6;100;Email Setup;/network;Email server support and config for up to 10 emails
 7;100;CDN Setup;/network;Setup a basic Content Delivery Network
-8;150;Web Portal / Client Area;/site;A separate web portal / customer facing site
+8;250;Web Portal / Client Area;/site;A separate web portal / customer facing site
 9;350;Availability System;/site;Booking system for professional availability
 11;100;File Structuring >500;/dump;Organize / structure your files for data processing (under 500)
 12;100;File Sanitation;/dump;Prepping file metadata for data processing (under 500)
