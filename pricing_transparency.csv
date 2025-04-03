@@ -8,6 +8,7 @@ No.;PRICE;DESCRIP;UNIT;NOTES
 7;100;CDN Setup;/network;Setup a basic Content Delivery Network
 8;250;Web Portal / Client Area;/site;A separate web portal / customer facing site
 9;350;Availability System;/site;Booking system for professional availability
+10;250;Account Manager/Login System;/site;A portal for users to login with explicit permissions
 11;100;File Structuring >500;/dump;Organize / structure your files for data processing (under 500)
 12;100;File Sanitation;/dump;Prepping file metadata for data processing (under 500)
 13;100;Data Structuring;/hr;Structuring data for processing
